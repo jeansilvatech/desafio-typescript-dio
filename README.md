@@ -1,5 +1,6 @@
 # desafio-typescript-dio
-Respostas dos desafios de TypeScript da DIO no Geração Tech Unimed-BH | Fullstack
+### Respostas dos desafios de TypeScript da DIO no Geração Tech Unimed-BH | Fullstack
+### Na pasta "desafios" estão os desafios propostos e na pasta "respostas" estão suas resoluções.
 
 
 <div align="center" style="display: inline_block">
